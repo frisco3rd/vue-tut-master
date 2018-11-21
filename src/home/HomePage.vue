@@ -16,6 +16,9 @@
         <p>
             <router-link to="/login">Logout</router-link>
         </p>
+        <p>
+        <button type="button" class="btn btn-warning"><router-link to="/testpage"> Secret Page</router-link></button>
+        </p>
     </div>
 </template>
 
